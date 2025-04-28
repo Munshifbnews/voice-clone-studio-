@@ -1,0 +1,12 @@
+streamlit
+numpy
+soundfile
+moviepy
+speechrecognition
+langdetect
+face_recognition
+opencv-python
+openai-whisper
+openai
+TTS
+
